@@ -1,6 +1,5 @@
 # weather-cardputer
 Simple weather app for M5Stack Cardputer
-![IMG_1148](https://github.com/qubiX00/weather-cardputer/assets/115372907/a81f905b-607e-4128-98f9-cd7eb826c8a3)
 
 # requirements
 - M5Stack Cardputer
